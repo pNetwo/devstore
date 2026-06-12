@@ -1,0 +1,9 @@
+⚠ `images.domains` is deprecated in favor of `images.remotePatterns`. Please update next.config.ts to protect your application from malicious users.
+⨯ Another next dev server is already running.
+
+- Local:        http://localhost:3000
+- PID:          7464
+- Dir:          C:\Users\Neto\Rocketseat\Projetos Rocketseat\devstore
+- Log:          .next\dev\logs\next-development.log
+
+Run taskkill /PID 7464 /F to stop it.
